@@ -1,4 +1,4 @@
-var a=[]
+var a=[]        //For in()
 var b={
 	id:101,
 	name:"sai", 
