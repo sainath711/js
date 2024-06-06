@@ -1,0 +1,17 @@
+//print the Second highest number
+const arr=[10,5,7,9,19,15]
+
+function secondhighestnbr(arr){
+    if(arr.length<1){
+        return null;
+    }
+    else{
+         arr.sort((a,b)=>b-a)
+         //console.log(arr)
+          return arr[1]
+    }
+  
+  
+}
+
+console.log(secondhighestnbr(arr))
