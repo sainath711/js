@@ -1,5 +1,5 @@
-var ename=["sai","raju","shiva","mohan"]
+var ename=["sai","raju","shiva","mohan",'khanna']
 console.log(ename)
-for(ename of enames)
+for(ename of ename)
 	console.log(ename)
 

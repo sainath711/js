@@ -1,6 +1,6 @@
 var i=10;
-var name=["sai","shiva"]
+var n=['sai','shiva']
 console.log(i)
-console.log(name[0])
-console.log(name[1])
-console.log(name)
+console.log(n[0])
+console.log(n[1])
+console.log(n)
