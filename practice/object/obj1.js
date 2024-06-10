@@ -5,3 +5,6 @@ var obj={
 
 }
 console.log(obj);
+
+JSON.stringify(obj)
+console.log(obj.length);
