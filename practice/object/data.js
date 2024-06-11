@@ -1,3 +1,3 @@
 function display(){
-    alert("GM")
+    alert("Good Morning")
 }
