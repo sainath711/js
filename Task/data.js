@@ -13,7 +13,7 @@ function displayData(){
         <td>${emp.sal}</td>
         </tr>`
     }
-    document.getElementsByTagName('tbody')[0].innerHTML=rows
+    document.getElementById('abc').innerHTML=rows
 }
 
 
